@@ -1,0 +1,1 @@
+# MPI_Aplikasi_trigonometri
